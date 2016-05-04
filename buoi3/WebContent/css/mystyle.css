@@ -1,0 +1,41 @@
+.menu-button {
+	width: 180px;
+	height: 30px;
+	margin-top: 5px;
+}
+
+.bordered-table {
+	width: 90%;
+}
+
+.td-body {
+	height: 500px;
+}
+
+.bordered-table, td, th {
+	border-collapse: collapse;
+	border: 1px solid gray;
+	vertical-align: top;
+	text-align: center;
+	background: #ecf0f1;
+}
+
+.content-table {
+	vertical-align: center;
+	text-align:center;
+	width: 90%;
+}
+
+p.header {
+	font-size: 30px;
+}
+
+img.logo {
+	width: 128px;
+	height: 128px;
+}
+
+img.banner {
+	width: 150px;
+	height: 150px;
+}
